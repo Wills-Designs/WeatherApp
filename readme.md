@@ -1,0 +1,1 @@
+Javascript weather application created using vanilla js, html, css, and a weather api from weatherapi.com 
